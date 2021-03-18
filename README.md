@@ -76,5 +76,5 @@ Know what? Let's do 10000.
 2.0
 1.0
 ```
-I think you can see a pattern here. If you don't, I will tell you: the rsult always ends with one. Try it.
+I think you can see a pattern here. If you don't, I will tell you: the result always ends with one. Try it.
 You can view the source code and download the .jar file as well. Enjoy! This was made using the IntelliJ IDE from jetbrains.
